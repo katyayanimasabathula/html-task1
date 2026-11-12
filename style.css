@@ -1,0 +1,53 @@
+body {
+    background-color: #fdfdfd;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.profile {
+    background-color: white;
+    width: 70%;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 30px;
+
+    box-shadow:
+    -10px 10px 35px 10px rgb(205, 151, 191),
+    10px 10px 35px 10px rgb(185, 185, 101);
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 3px solid lightblue;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+}
+
+.brown {
+    border: 3px solid rgb(180, 74, 93);
+}
+
+.quote {
+    font-size: 28px;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+h2 {
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+.skills {
+    font-size: 23px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
